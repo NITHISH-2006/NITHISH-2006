@@ -11,7 +11,7 @@ Currently obsessed with the intersection of AI and real-world systems.
 
 `AuthGate` — Authentication backend built around JWT, role-based access control, and ML-based anomaly detection for flagging suspicious logins. → [Repo](https://github.com/NITHISH-2006/AuthGate)
 
-`Metro Route Optimizer` — `KMRL Smart Scheduler` — AI dashboard that automates train induction and scheduling for Kochi Metro. Predicts hourly passenger demand and auto-generates daily train schedules, cutting operator planning time from 2 hours to 15 minutes. → [Live](https://metro-schedule-smart.vercel.app) · [Repo](https://github.com/NITHISH-2006/metro-schedule-smart)
+`Metro Route Optimizer` —  AI dashboard that automates train induction and scheduling for Kochi Metro. Predicts hourly passenger demand and auto-generates daily train schedules, cutting operator planning time from 2 hours to 15 minutes. → [Live](https://metro-schedule-smart.vercel.app) · [Repo](https://github.com/NITHISH-2006/metro-schedule-smart)
 
 ---
 
