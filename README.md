@@ -18,7 +18,7 @@ Currently obsessed with the intersection of AI and real-world systems.
 **Stack**
 
 ```
-Languages   Java · JavaScript · Python · Solidity
+Languages   Java · JavaScript · Python · Rust
 Frontend    React · Next.js · TypeScript · HTML/CSS  
 Backend     Node.js · Express
 Database    MongoDB · MySQL
