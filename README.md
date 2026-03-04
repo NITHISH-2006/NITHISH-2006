@@ -11,7 +11,7 @@ Currently obsessed with the intersection of AI and real-world systems.
 
 [`ETH-Wallet-Risk-Scorer`](https://github.com/NITHISH-2006/ETH-Wallet-Risk-Scorer)  
 ML-powered Ethereum wallet risk assessment tool: inputs an address → outputs 0–100 risk score with explainable reasons (e.g., transaction patterns, graph-based features, anomaly detection via Isolation Forest). Designed for real-time crypto fraud/security detection.  
-→ [Live Demo](https://eth-wallet-risk-scorer-by-nithish.streamlit.app)
+→ [Live](https://eth-wallet-risk-scorer-by-nithish.streamlit.app)
 
 [`Mini-Block-Chain`](https://github.com/NITHISH-2006/Mini-Block-Chain)  
 Proof-of-Work blockchain implemented from scratch in Rust — covers hashing, mining, validation, and core consensus mechanics.
